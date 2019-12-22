@@ -2,4 +2,4 @@
 
 https://breche.github.io/pr-10/index.html
 
-Version: 1.1.1
+Version: 1.1.4
